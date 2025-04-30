@@ -1,6 +1,6 @@
  # Ejemplos Prácticos con Loguru 🪵
 
-Este repositorio contiene ejemplos básicos para demostrar cómo usar la librería [`Loguru`](https://github.com/Delgan/loguru) en Python, una alternativa simple y potente al módulo `logging` estándar.
+Este repositorio contiene ejemplos básicos para demostrar cómo usar la librería [`Loguru`](https://github.com/CADR7/loguru-examples) en Python, una alternativa simple y potente al módulo `logging` estándar.
 
 ## ¿Qué es Loguru?
 
@@ -17,10 +17,9 @@ Loguru tiene como objetivo simplificar el logging en Python. Ofrece una configur
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/loguru-examples.git](https://github.com/tu-usuario/loguru-examples.git)
+    git clone [https://github.com/CADR7/loguru-examples](https://github.com/CADR7/loguru-examples)
     cd loguru-examples
     ```
-    *(Reemplaza `tu-usuario` con tu nombre de usuario de GitHub)*
 
 2.  **Crea un entorno virtual (recomendado):**
     ```bash
